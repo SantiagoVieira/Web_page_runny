@@ -1,7 +1,7 @@
 const restaurants = [
     {
         id: 1,
-        name: "Burger Palace",
+        name: "donde tavo",
         description: "Las mejores hamburguesas de la ciudad",
         menu: [
             { name: "Hamburguesa Clásica", description: "Carne, lechuga, tomate y queso", price: 8.99 },
@@ -11,7 +11,7 @@ const restaurants = [
     },
     {
         id: 2,
-        name: "Pizza Paradise",
+        name: "sr.gourmet",
         description: "Auténtica pizza italiana",
         menu: [
             { name: "Margherita", description: "Tomate, mozzarella y albahaca", price: 12.99 },
@@ -21,7 +21,7 @@ const restaurants = [
     },
     {
         id: 3,
-        name: "Sushi Sensation",
+        name: "dary udem",
         description: "El mejor sushi de la zona",
         menu: [
             { name: "California Roll", description: "Cangrejo, aguacate y pepino", price: 10.99 },

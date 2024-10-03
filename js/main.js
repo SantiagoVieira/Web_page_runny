@@ -1,8 +1,8 @@
 // main.js
 const restaurants = [
-    { id: 1, name: "Burger Palace", description: "Las mejores hamburguesas" },
-    { id: 2, name: "Pizza Paradise", description: "Auténtica pizza italiana" },
-    { id: 3, name: "Sushi Sensation", description: "El mejor sushi de la zona" }
+    { id: 1, name: "donde tavo", description: "Las mejores hamburguesas" },
+    { id: 2, name: "sr.gourmet", description: "Auténtica pizza italiana" },
+    { id: 3, name: "dogger", description: "El mejor sushi de la zona" }
 ];
 
 const menus = {
