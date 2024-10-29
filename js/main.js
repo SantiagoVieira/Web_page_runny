@@ -1,8 +1,13 @@
-// main.js
 const restaurants = [
     { id: 1, name: "donde tavo", description: "Las mejores hamburguesas" },
     { id: 2, name: "sr.gourmet", description: "Auténtica pizza italiana" },
-    { id: 3, name: "dogger", description: "El mejor sushi de la zona" }
+    { id: 3, name: "dogger", description: "El mejor sushi de la zona" },
+    { id: 4, name: "sato", description: "Comida japonesa tradicional" },
+    { id: 5, name: "caffeto", description: "Café y postres artesanales" },
+    { id: 6, name: "pimientos", description: "Tapas y cocina mediterránea" },
+    { id: 7, name: "donde juan", description: "Parrilla colombiana" },
+    { id: 8, name: "cafeteria coliseo", description: "Bocadillos rápidos y bebidas" },
+    { id: 9, name: "dary", description: "Desayunos saludables" }
 ];
 
 const menus = {
@@ -20,6 +25,36 @@ const menus = {
         { id: 7, name: "Sushi Variado", price: 18.99 },
         { id: 8, name: "Sashimi", price: 16.99 },
         { id: 9, name: "Tempura", price: 12.99 }
+    ],
+    4: [
+        { id: 10, name: "Ramen", price: 14.99 },
+        { id: 11, name: "Gyozas", price: 7.99 },
+        { id: 12, name: "Té Verde", price: 2.99 }
+    ],
+    5: [
+        { id: 13, name: "Café Americano", price: 3.99 },
+        { id: 14, name: "Cheesecake", price: 5.99 },
+        { id: 15, name: "Capuchino", price: 4.99 }
+    ],
+    6: [
+        { id: 16, name: "Ensalada Mediterránea", price: 9.99 },
+        { id: 17, name: "Paella", price: 18.99 },
+        { id: 18, name: "Tortilla Española", price: 6.99 }
+    ],
+    7: [
+        { id: 19, name: "Churrasco", price: 20.99 },
+        { id: 20, name: "Arepas", price: 3.99 },
+        { id: 21, name: "Mazamorra", price: 4.99 }
+    ],
+    8: [
+        { id: 22, name: "Sándwich Mixto", price: 7.99 },
+        { id: 23, name: "Jugos Naturales", price: 3.99 },
+        { id: 24, name: "Galletas", price: 2.99 }
+    ],
+    9: [
+        { id: 25, name: "Avena con Frutas", price: 5.99 },
+        { id: 26, name: "Huevos Revueltos", price: 4.99 },
+        { id: 27, name: "Tostadas Integrales", price: 3.99 }
     ]
 };
 
